@@ -17,3 +17,13 @@ booleans_array.unshift(true)
 # the first index position (0) in the strings_array is "joe"
 # the last index position (3) in the strings_array is "sarah"
 # I have created a variety of one- and two-dimensional arrays in other programming languages
+
+
+
+# example of arrays.first and arrays.last
+
+# the following code would return "joe"
+strings_array.first 
+
+#the following code would return "sarah"
+strings_array.last
