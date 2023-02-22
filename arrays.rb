@@ -13,3 +13,7 @@ floats_array.shift
 booleans_array = [false, true, false, true]
 # this method will add the boolean element "true" to the front of the booleans array
 booleans_array.unshift(true)
+
+# the first index position (0) in the strings_array is "joe"
+# the last index position (3) in the strings_array is "sarah"
+# I have created a variety of one- and two-dimensional arrays in other programming languages
